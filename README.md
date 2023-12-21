@@ -1,3 +1,6 @@
+<div align="right">
+  <a><img src="https://img.shields.io/badge/Solved-9-%23ffc01e?style=%20for-the-badge&logoColor=%23ffffff&label=Solved&labelColor=%23282828&color=%23ffc01e"></a>
+</div>
 
 # Hello Leetcode
 
