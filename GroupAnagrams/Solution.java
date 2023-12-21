@@ -2,46 +2,27 @@ package GroupAnagrams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Solution {
-    // Runtime: 1537 ms | Memory: 47.22 MB
+    // Runtime: 6 ms | Memory: 47.83 MB
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> group = new ArrayList<>();
-        List<String> strsList = new ArrayList<>(Arrays.asList(strs));
-        if (strs != null && strs.length == 0) {
-            group.add(List.of(""));
-            return group;
+        Map<String, List<String>> group = new HashMap();
+        for(String str: strs){
+            String base = anagram(str);
+            if(!group.containsKey(base)) group.put(base, new ArrayList<>());
+            group.get(base).add(str);
         }
-        while (!strsList.isEmpty()) {
-            String currentWord = strsList.get(0);
-            List<String> anagramsList = strsList.stream()
-                    .filter(word -> isAnagram(word, currentWord))
-                    .collect(Collectors.toList());
-            group.add(anagramsList);
-            strsList.removeAll(anagramsList);
-        }
-
-        return group;
+        return new ArrayList<>(group.values());
     }
 
-    public static boolean isAnagram(String s, String t) {
-        if (s.length() != t.length())
-            return false;
-
-        int[] lettersMap = new int[26];
-        for (char c : s.toCharArray()) {
-            lettersMap[c - 'a']++;
-        }
-        for (char c : t.toCharArray()) {
-            lettersMap[c - 'a']--;
-        }
-        for (int i : lettersMap) {
-            if (i != 0)
-                return false;
-        }
-        return true;
+    public static String anagram(String s) {
+        char[] array = s.toCharArray();
+        Arrays.sort(array);
+        return new String(array);
 
     }
 }
