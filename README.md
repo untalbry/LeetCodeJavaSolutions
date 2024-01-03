@@ -1,5 +1,5 @@
 <div align="right">
-  <a><img src="https://img.shields.io/badge/Solved-10-%23ffc01e?style=%20for-the-badge&logoColor=%23ffffff&label=Solved&labelColor=%23282828&color=%23ffc01e"></a>
+  <a><img src="https://img.shields.io/badge/9-4?style=for-thebadge&logo=Leetcode&label=Solved&color=%23ffa116&link=https%3A%2F%2Fleetcode.com%2FxVrzBx%2F"></a>
 </div>
 
 # Hello Leetcode
