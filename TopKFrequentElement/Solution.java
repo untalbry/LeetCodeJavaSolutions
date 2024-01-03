@@ -1,16 +1,12 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.LinkedHashMap;
-import java.util.List;
+import java.util.HashMap;
 import java.util.Map;
 
 public class Solution {
 
     public static int[] topKFrequent(int[] nums, int k) {
         int n = nums.length;
-        Map<Integer, Integer> freqMap = new LinkedHashMap<>();
+        Map<Integer, Integer> freqMap = new HashMap<>();
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         int[] KFrequent = new int[k];
         int index = 0;
