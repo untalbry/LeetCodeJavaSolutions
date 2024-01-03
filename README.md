@@ -13,3 +13,4 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  2  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidAnagram">Valid Anagram</a>|    ✅   | Easy | 
 |  3  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSum">Two Sum</a>| ✅ | Easy |
 |  4  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/GroupAnagrams">Group Anagrams</a>|✅ | Medium | 
+|  5  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TopKFrequentElement">Top K Frequent Element</a> |✅| Medium|
