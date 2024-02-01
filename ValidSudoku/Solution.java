@@ -17,22 +17,6 @@ public class Solution {
         System.out.println(isValidSudoku(matriz));
     }
 
-    public static void printList(char[] list) {
-        for (int i = 0; i < list.length; i++) {
-            System.out.print(list[i] + ",");
-        }
-        System.out.println("");
-    }
-
-    public static void printMatriz(char[][] sudoku, int filaInicio, int filaFin, int columnaInicio,
-            int columnaFin) {
-        for (int j = columnaInicio; j <= columnaFin; j++) {
-            for (int i = filaInicio; i <= filaFin; i++) {
-                System.out.print("'" + sudoku[j][i] + "'");
-            }
-        }
-    }
-
     public static boolean isValidSudoku(char[][] board) {
         for (int i = 0; i < board.length; i++) {
             char fila[] = board[i];
