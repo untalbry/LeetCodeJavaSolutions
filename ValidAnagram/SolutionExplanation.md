@@ -12,7 +12,7 @@ if(s.length() != s.length()) return false;
 ```
 
 Now, for the next step, we can create an array of 26 elements (because there are 26 letters in the English alphabet), to store the letters that are in the word.<br>
-To know where we need to store, we have to think about how Java represents characters. The answer to this is that Java uses `Unicode`. <br> 
+To know where we need to store, we have to think about how Java represents characters. The answer to this is that Java uses <a href ="https://symbl.cc/es/unicode/table/">`Unicode`</a>. <br> 
 
 Each letter has a value, so we can do a subtraction of `'a'` and a letter from the word, that can give us a unique position to store that letter. So by adding 1 in a field of the array we can represent the frequency of appearance of each word.
 
