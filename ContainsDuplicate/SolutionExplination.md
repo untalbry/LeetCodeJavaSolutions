@@ -31,4 +31,4 @@ So we can create a `foreach` to traverse the entire array and adding all his ele
 ```
 
 >[!NOTE]
-> The `System.gc)` is for calling the garbage collector to collect the space of memory that we use. 
+> The `System.gc()` is for calling the garbage collector to collect the space of memory that we use. 
