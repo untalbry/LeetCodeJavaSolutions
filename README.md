@@ -16,3 +16,7 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  3  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSum">Two Sum</a>| ✅ | Easy |
 |  4  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/GroupAnagrams">Group Anagrams</a>|✅ | Medium | 
 |  5  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TopKFrequentElement">Top K Frequent Element</a> |✅| Medium|
+|  6  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ProductOfArrayExceptSelf">Product of Array Except Self</a> |✅| Medium|
+|  7  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidSudoku">Valid Sudoku</a> |✅| Medium|
+|  8  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |✅| Medium|
+
