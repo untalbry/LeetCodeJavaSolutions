@@ -20,3 +20,4 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  7  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidSudoku">Valid Sudoku</a> |✅| Medium|
 |  8  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |✅| Medium|
 
+### Two Pointers 
