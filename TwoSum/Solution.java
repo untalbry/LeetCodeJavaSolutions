@@ -1,25 +1,21 @@
 package TwoSum;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Solution {
-    // | RunTime : 0 ms | Memory: 44.45MB
+    // | RunTime : 2 ms | Memory: 44.45MB complexity : O(n) 
     public int[] twoSum(int[] nums, int target) {
-        int leftPointer = 0;
-        int rightPointer = nums.length - 1;
-        for (; leftPointer < nums.length / 2; leftPointer++) {
-            if (nums[leftPointer] + nums[rightPointer] == target) {
-                return new int[] { leftPointer, rightPointer };
+         Map<Integer, Integer> complementMap = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            if (complementMap.containsKey(complement)) {
+                return new int[]{complementMap.get(complement), i};
             }
-            for (int j = leftPointer + 1; j < rightPointer; j++) {
-                if (nums[leftPointer] + nums[j] == target) {
-                    return new int[] { leftPointer, j };
-                }
-                if (nums[j] + nums[rightPointer] == target) {
-                    return new int[] { j, rightPointer };
-                }
-            }
-            rightPointer--;
+            complementMap.put(nums[i], i);
         }
-        return new int[] { 0, 0 };
+        return new int[]{0,0};
 
     }
 }
