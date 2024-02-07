@@ -11,13 +11,19 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 ### Arrays & Hashing
 |  #  | Problem                        | Solved | Difficulty|
 |----|---------------------------------|--------|-----------|
-|  1  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ContainsDuplicate">Contains Duplicate</a>|    ✅   | Easy |
-|  2  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidAnagram">Valid Anagram</a>|    ✅   | Easy | 
-|  3  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSum">Two Sum</a>| ✅ | Easy |
-|  4  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/GroupAnagrams">Group Anagrams</a>|✅ | Medium | 
-|  5  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TopKFrequentElement">Top K Frequent Element</a> |✅| Medium|
-|  6  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ProductOfArrayExceptSelf">Product of Array Except Self</a> |✅| Medium|
-|  7  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidSudoku">Valid Sudoku</a> |✅| Medium|
-|  8  | <a src="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |✅| Medium|
+|  1  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ContainsDuplicate">Contains Duplicate</a> |    ✅   | Easy |
+|  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidAnagram">Valid Anagram</a> |    ✅   | Easy | 
+|  3  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSum">Two Sum</a> | ✅ | Easy |
+|  4  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/GroupAnagrams">Group Anagrams</a> |✅ | Medium | 
+|  5  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TopKFrequentElement">Top K Frequent Element</a> |✅| Medium|
+|  6  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ProductOfArrayExceptSelf">Product of Array Except Self</a> |✅| Medium|
+|  7  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidSudoku">Valid Sudoku</a> |✅| Medium|
+|  8  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |✅| Medium|
 
 ### Two Pointers 
+|  #  | Problem                        | Solved | Difficulty|
+|----|---------------------------------|--------|-----------|
+|  1  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidPalindrome">Valid palindrome</a> |    ✅   | Easy |
+|  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSumII">Two sum II </a> |    ✅   | Medium |
+|  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">3 sum </a> |    ✅   | Medium |
+
