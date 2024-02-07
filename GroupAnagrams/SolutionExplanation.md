@@ -34,3 +34,4 @@ public List<List<String>> groupAnagrams(String[] strs) {
   return new ArrayList<>(group.values());
 }
 ```
+This solution has a complexity of `O(n)`, where `n` is the length of the `String's` array. 
