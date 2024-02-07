@@ -7,7 +7,7 @@ For this solution I thought about: "How can I be sure that by adding 2 numbers I
 You just have to subtract the element `n` from the array with the target, if the array contains that number, we have found the two numbers.
 
 ```Java
-    int complement = target - nums[i]; 
+int complement = target - nums[i]; 
 ```
 
 For this you must know about `HashMaps` again. This class has an method for return `true` if it contains the key. 
