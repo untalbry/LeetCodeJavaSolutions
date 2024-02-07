@@ -9,7 +9,7 @@
 I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this roadmap <a href="https://neetcode.io/roadmap">Leetcode Roadmap</a> in the programming languaje: Java ☕ 
 
 ### Arrays & Hashing
-|  #  | Problem                        | Solved | Difficulty|
+|  #  | Problem                        | Status | Difficulty|
 |----|---------------------------------|--------|-----------|
 |  1  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ContainsDuplicate">Contains Duplicate</a> |    ✅   | Easy |
 |  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidAnagram">Valid Anagram</a> |    ✅   | Easy | 
@@ -21,7 +21,7 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  8  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |✅| Medium|
 
 ### Two Pointers 
-|  #  | Problem                        | Solved | Difficulty|
+|  #  | Problem                        | Status | Difficulty|
 |----|---------------------------------|--------|-----------|
 |  1  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidPalindrome">Valid palindrome</a> |    ✅   | Easy |
 |  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSumII">Two sum II </a> |    ✅   | Medium |
