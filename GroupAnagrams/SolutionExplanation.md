@@ -1,6 +1,5 @@
 # 49. Group Anagrams 
-For this problem we need to rememver how we know for sure if a word is anagram of another. 
-To do that could get all the letters in a word and sorted, if bouth of them had the same letters, they are anagram of each other. 
+For this problem, we need to remember how we know for sure if a word is an anagram of another. To do that, we could gather all the letters in a word and sort them. If both of them have the same letters, they are anagrams of each other.
 ```Java
 public static String anagram(String s) {
   char[] array = s.toCharArray();
@@ -8,8 +7,7 @@ public static String anagram(String s) {
   return new String(array);
 }
 ```
-Soo in our solution we have to map all the words, with a key. Our key is the word with sorted letters. So insted of just knowing if a word is an anagram of an other
-we know going to store the word in the value of his corresponded key: 
+So in our solution, we have to map all the words with a key. Our key is the word with sorted letters. So instead of just knowing if a word is an anagram of another, we are going to store the word in the value of its corresponding key
 
 ```Java
 Map<String, List<String>> group = new HashMap();
@@ -19,7 +17,7 @@ if(!group.containsKey(base)){
 }
 group.get(base).add(str);
 ```
-And to finish we just need to loop over the `String's` array an verify each `String` 
+And to finish, we just need to loop over the `String array` and verify each `String`: 
 
 ```Java
 public List<List<String>> groupAnagrams(String[] strs) {
@@ -34,4 +32,4 @@ public List<List<String>> groupAnagrams(String[] strs) {
   return new ArrayList<>(group.values());
 }
 ```
-This solution has a complexity of `O(n)`, where `n` is the length of the `String's` array. 
+This solution has a complexity of `O(n)`, where n is the length of the `String array`.
