@@ -25,5 +25,8 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |----|---------------------------------|--------|-----------|
 |  1  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidPalindrome">Valid palindrome</a> |    <a href="#">  Done✅</a>    | Easy |
 |  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSumII">Two sum II </a> |    <a href="#">  Done✅</a>    | Medium |
-|  2  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">3 sum </a> |   <a href="#"> Done✅</a>    | Medium |
+|  3  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">3 sum </a> |   <a href="#"> Done✅</a>    | Medium |
+|  4  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">Container with most water </a> |   <a href="#"> Done✅</a>    | Medium |
+|  5  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">Trapping rain water </a> |   <a href="#"> Done✅</a>    | Hard |
+
 
