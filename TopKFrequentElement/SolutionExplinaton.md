@@ -55,7 +55,7 @@ for (int i = n - 1; i >= 0; i--) {
 }
 return kFrequent
 ```
-
+The overall time complexity is `O(n)`.
 
 
 
