@@ -19,8 +19,9 @@ public class Solution {
             if(s.charAt(left) != s.charAt(right))
                 return false;
             left++;
-            right--;
+            right--; 
         }
+        
         return true;
     }
     
