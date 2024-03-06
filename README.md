@@ -16,7 +16,7 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  3  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TwoSum">Two Sum</a> | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/blob/main/TwoSum/SolutionExplanation.md"> Done ✅</a>   | Easy |
 |  4  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/GroupAnagrams">Group Anagrams</a> |<a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/GroupAnagrams/SolutionExplanation.md">  Done✅</a>   | Medium | 
 |  5  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/TopKFrequentElement">Top K Frequent Element</a> |<a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/TopKFrequentElement/SolutionExplinaton.md">  Done✅</a>  | Medium|
-|  6  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ProductOfArrayExceptSelf">Product of Array Except Self</a> |<a href="#">  Done✅</a>  | Medium|
+|  6  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ProductOfArrayExceptSelf">Product of Array Except Self</a> |<a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/ProductOfArrayExceptSelf/SolutionExplanation.md">  Done✅</a>  | Medium|
 |  7  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/ValidSudoku">Valid Sudoku</a> |<a href="#">  Done✅</a>  | Medium|
 |  8  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/LongesConsecutiveSequence">Longest Consecutive Sequence</a> |<a href="#">  Done✅</a>  | Medium|
 
