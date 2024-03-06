@@ -9,6 +9,7 @@ public class Solution {
         String parentesis = "){";
         System.out.println(isValid(parentesis));
     }
+    //Memory : 41.50 MB | RunTime: 1ms 
     public static boolean isValid(String s){
         if(s.length()<2 || s.length()%2 != 0)return false;
         Deque<Character> stack = new ArrayDeque<>();
