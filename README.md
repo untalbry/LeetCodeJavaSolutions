@@ -29,4 +29,10 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  4  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">Container with most water </a> |   <a href="#"> Done✅</a>    | Medium |
 |  5  | <a href="https://github.com/xVrzBx/LeetCodeJavaSolutions/tree/main/threeSum">Trapping rain water </a> |   <a href="#"> Done✅</a>    | Hard |
 
+### Stack
+|  #  | Problem                        | Status | Difficulty|
+|----|---------------------------------|--------|-----------|
+|  1  | <a href="">Valid parenthesis</a> |    <a href="#">  Done✅</a>    | Easy |
+|  2  | <a href="">Min Stack</a> |    <a href="#">  Done✅</a>    | Medium |
+
 
