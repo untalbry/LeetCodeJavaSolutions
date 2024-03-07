@@ -1,6 +1,6 @@
 package minstack;
 
-
+//Memory: 44.74 MB | Runtime: 4 ms 
 public class MinStack {
     private Node head;
     private Node min; 
