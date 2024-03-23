@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://leetcode.com/xVrzBx/">
-    <img src="https://img.shields.io/badge/Solved-21-%23ffa116?style=for-the-badge&logo=Leetcode&labelColor=%23242526&color=%23ffa116">
+    <img src="https://img.shields.io/badge/Solved-22-%23ffa116?style=for-the-badge&logo=Leetcode&labelColor=%23242526&color=%23ffa116">
   </a>
 </div>
 
@@ -35,4 +35,4 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  1  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/ValidParentheses">Valid parenthesis</a> |    Done✅   | Easy |
 |  2  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/minstack">Min Stack</a> |      Done✅    | Medium |
 |  3  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/EvaluateReversePolishNotation">Evaluate Reverse Polish Notation</a> |      Done✅    | Medium |
-
+|  4  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/generateParentheses/Solution.java">Generate Parentheses</a> | Done ✅ | Medium|  
