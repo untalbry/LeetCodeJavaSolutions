@@ -1,4 +1,4 @@
-package ValidSudoku;
+package validsudoku;
 
 public class Solution {
      //| RunTime : 1 ms | Memory: 44.24 MB

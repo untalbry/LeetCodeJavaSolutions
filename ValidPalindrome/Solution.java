@@ -1,4 +1,4 @@
-package ValidPalindrome;
+package validpalindrome;
 
 
 public class Solution {

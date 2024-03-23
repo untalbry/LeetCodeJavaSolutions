@@ -1,4 +1,4 @@
-package ContainsDuplicate;
+package containsduplicate;
 
 import java.util.HashSet;
 

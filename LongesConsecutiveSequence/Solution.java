@@ -1,4 +1,4 @@
-package LongesConsecutiveSequence;
+package longesconsecutivesequence;
 
 import java.util.HashSet;
 

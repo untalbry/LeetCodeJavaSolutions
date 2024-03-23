@@ -1,4 +1,4 @@
-package dailyTemperatures;
+package dailytemperatures;
 
 
 public class Solution {

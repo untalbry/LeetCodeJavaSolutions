@@ -1,4 +1,4 @@
-package ValidAnagram;
+package validanagram;
 
 public class Solution {
     //| RunTime : 3 ms | Memory: 43.3 MB

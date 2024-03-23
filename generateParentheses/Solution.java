@@ -1,4 +1,4 @@
-package generateParentheses;
+package generateparentheses;
 
 import java.util.ArrayList;
 import java.util.List;

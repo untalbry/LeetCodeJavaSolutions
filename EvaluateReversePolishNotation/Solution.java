@@ -1,4 +1,4 @@
-package EvaluateReversePolishNotation;
+package evaluatereversepolishnotation;
 
 import java.util.Stack;
 

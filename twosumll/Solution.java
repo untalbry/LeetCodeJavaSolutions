@@ -1,4 +1,4 @@
-package TwoSumII;
+package twosumll;
 public class Solution {
     public static void main(String[] args) {
         int[] numbers = new int[] { -3,3,4,90};
