@@ -35,4 +35,5 @@ I'm solving all <a href="https://leetcode.com/">Leetcode</a> problems from this 
 |  1  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/ValidParentheses">Valid parenthesis</a> |    Done✅   | Easy |
 |  2  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/minstack">Min Stack</a> |      Done✅    | Medium |
 |  3  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/tree/main/EvaluateReversePolishNotation">Evaluate Reverse Polish Notation</a> |      Done✅    | Medium |
-|  4  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/generateParentheses/Solution.java">Generate Parentheses</a> | Done ✅ | Medium|  
+|  4  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/generateParentheses/Solution.java">Generate Parentheses</a> | Done ✅ | Medium| 
+|  5  | <a href="https://github.com/untalbry/LeetCodeJavaSolutions/blob/main/dailyTemperatures/Solution.java"> Daily Temperatures </a> | Done   ✅  | Medium  |
