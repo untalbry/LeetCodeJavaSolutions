@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://leetcode.com/xVrzBx/">
-    <img src="https://img.shields.io/badge/Solved-22-%23ffa116?style=for-the-badge&logo=Leetcode&labelColor=%23242526&color=%23ffa116">
+    <img src="https://img.shields.io/badge/Solved-23-%23ffa116?style=for-the-badge&logo=Leetcode&labelColor=%23242526&color=%23ffa116">
   </a>
 </div>
 
